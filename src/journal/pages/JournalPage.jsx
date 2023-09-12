@@ -12,9 +12,9 @@ export const JournalPage = () => {
       <IconButton
         size="large"
         sx={{
-          color: "white",
-          backgroundColor: "error.main",
-          ":hover": { backgroundColor: "error.main", opacity: 0.9 },
+          color: "black",
+          backgroundColor: "white",
+          ":hover": { backgroundColor: "white", opacity: 0.9 },
           position: "fixed",
           right: 50,
           bottom: 50,

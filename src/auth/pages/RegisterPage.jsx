@@ -104,7 +104,7 @@ export const RegisterPage = () => {
               <Alert severity="error">{errorMessage}</Alert>
             </Grid>
 
-            <Grid item xs={12} >
+            <Grid item xs={12}>
               <Button
                 type="submit"
                 variant="contained"
